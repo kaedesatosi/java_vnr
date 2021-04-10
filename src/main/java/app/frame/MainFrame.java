@@ -123,7 +123,7 @@ public class MainFrame extends JFrame {
 	private void addPopMenu() {
 		menu = new JPopupMenu("menu");
 
-		JMenuItem gameGuide = new JMenuItem("游戏向导");
+		JMenuItem gameGuide = new JMenuItem("运行向导");
 		gameGuide.addActionListener(e -> {
 
 			Object[] options = { "hook方法", "剪贴板" };
