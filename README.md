@@ -11,3 +11,6 @@ vnr的java版小demo
 4. 如选择Textractor方式，在弹出框中选择要翻译程序的名字和id，然后选择读取文本的方法即可
 
 ![](assets/main.jpg)
+
+# 依赖
+- [Textractor](https://github.com/Artikash/Textractor)
